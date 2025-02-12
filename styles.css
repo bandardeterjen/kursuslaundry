@@ -43,7 +43,7 @@ p {
 
 /* Header Section */
 .header {
-    background: url('laundry-bg.jpg') no-repeat center center/cover;
+    background: url('https://raw.githubusercontent.com/bandardeterjen/kursuslaundry/refs/heads/images/bd-kursuslaundry-header.png') no-repeat center center/cover;
     color: white;
     text-align: center;
     padding: 100px 20px;
