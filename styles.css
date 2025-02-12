@@ -30,7 +30,7 @@ p {
 .btn {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #007BFF;
+    background-color: #4169E1;
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -129,7 +129,7 @@ p {
 
 /* Call To Action Section */
 .cta {
-    background-color: #007BFF;
+    background-color: #4169E1;
     color: white;
     padding: 50px 0;
     text-align: center;
@@ -188,7 +188,7 @@ p {
 
 /* Footer */
 .footer {
-    background-color: #333;
+    background-color: #FFA500;
     color: white;
     text-align: center;
     padding: 20px 0;
